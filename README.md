@@ -41,7 +41,7 @@ Early-stage startup focused on automated API testing and NLP.
 
 ## 📌 Bénévolat
 
-**Respo Comm.** @ [BDE](https://www.todo.org/conf/) _(Jul 2019 - Present)_<br>
+**Respo Comm.** @ [BDE](https://www.todo.org/conf/) _(Nov 2015 - Mai 2017)_<br>
 Technology conference focused on documentation systems, tech writing theory, and information delivery.
   - Management d’une équipe de 5 personnes
  - Création graphique (affiches, logos ...)
@@ -52,34 +52,34 @@ Technology conference focused on documentation systems, tech writing theory, and
  • semaine et week-end d'intégration (450 personnes)
   <br><br>
 
-**Vice-Président** @ [BDA](https://todo.org/) _(Jul 2019 - Dec 2021)_ <br>
+**Vice-Président** @ [BDA](https://todo.org/) _(Avr 2016 - Mai 2017)_ <br>
 Free, two-day workshops to help people build their first website.
   - Organisation de spectacles et concerts (Semaine des Arts, cabaret, compétitions artistiques)
 - Création de l'atelier d'Arts Plastiques de l'école (15 membres)
 - Enseignement de Photoshop à 40 étudiants
   <br><br>
 
-**Vice-président** @ [ReDI School of Digital Integration](https://www.redi-school.org/) _(Feb 2017 - Aug 2021)_<br>
+**Vice-président** @ [Paint'it](https://www.redi-school.org/) _(Sep 2015 - Mai 2017)_<br>
 Non-profit digital school for tech-interested newcomers applying for asylum in Germany.
   - Création de l'atelier d'Arts Plastiques des deux Ecole Télécom SudParis et Ecole de Management
 - Encadrement et animation hebdomadaire des séances du club
 - Enseignement et organisation de projets artistiques
   <br><br>
 
-**Vice-président** @ [QueerJS](https://queerjs.com/) _(Jun 2019 - Dec 2021)_<br>
+**Vice-président** @ [Sing'int](https://queerjs.com/) _(Nov 2015 - Mai 2017)_<br>
 🏳️‍🌈 A meetup for everyone where queer speakers take the stage.
   - Chef de pupitre des Basses
 Responsable de la communication du club (création d'affiches, de logo, promotion des événements sur les réseaux sociaux)
   <br><br>
 
-**Membre du pôle Marketing et Communication** @ [QueerJS](https://queerjs.com/) _(Jun 2019 - Dec 2021)_<br>
+**Membre du pôle Marketing et Communication** @ [AIESEC](https://queerjs.com/) _(Oct 2015 - Avr 2016)_<br>
 🏳️‍🌈 A meetup for everyone where queer speakers take the stage.
   - Réalisation d'affiches, vidéos et newsletters
 - Participation à 2 conférences d'une semaine axées sur l'enseignement du marketing et de "soft skills"
 - Etudes marketing
   <br><br>
 
-**Point Information** @ [QueerJS](https://queerjs.com/) _(Jun 2019 - Dec 2021)_<br>
+**Point Information** @ [Festival Interceltique de Lorient](https://queerjs.com/) _(Aou 2014)_<br>
 🏳️‍🌈 A meetup for everyone where queer speakers take the stage.
   - Aider, orienter et informer les visiteurs dans les rues de Lorient, où le Festival a lieu.
   <br><br>
