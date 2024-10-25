@@ -1,6 +1,6 @@
 # Simon Lanos
 
-_Engineer and Technical Artist based in Paris 🇫🇷_ <br>
+_Ingénieur and Technical Artist basé à Paris 🇫🇷_ <br>
 
 [Email](mailto:false.email@gmail.com) / [Website](https://falsewebsite.com/) / [LinkedIn](https://www.linkedin.com/in/simonlanos/) / [GitHub](https://github.com/KalonSall/) / [Twitter](https://twitter.com/falsetwitter/) / [DEV](https://dev.to/falseaccount/)
 
