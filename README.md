@@ -86,7 +86,7 @@ Festival annuel de musique et culture des pays et régions d'origine celtique, �
 ## 🏆 Succès et Projets
 
 **4e Place** @ [Concours ARELA Bretagne](http://www.arelabretagne.levillage.org/) _(Jui 2012)_ <br>
-Edition 2012 du Concours Lycéen de l'Asssociation Régionale des Enseignants de Langues Anciennes en Bretagne, documenté dans [Ouest France](https://www.ouest-france.fr/bretagne/rennes-35000/lycee-jean-mace-deux-latinistes-recompenses-1356890)
+Edition 2012 du Concours Lycéen de l'Association Régionale des Enseignants de Langues Anciennes en Bretagne, documenté dans [Ouest France](https://www.ouest-france.fr/bretagne/rennes-35000/lycee-jean-mace-deux-latinistes-recompenses-1356890)
 <br><br>
 
 ## 💬 Langues
