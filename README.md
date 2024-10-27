@@ -4,7 +4,7 @@ _Ingénieur et Technical Artist avec plus de 6 ans d'expérience dans le dévelo
 
 [Email](mailto:simon.lanoslt@gmail.com) / [LinkedIn](https://www.linkedin.com/in/simonlanos/)
 
-## 👩🏼‍💻 Experience
+## 👩🏼‍💻 Expérience
 
 **Ingénieur - Technical Artist** @ [Dontnod](https://dont-nod.com/fr/) _(Oct 2020 - Aujourd'hui)_ <br>
 TODO.
