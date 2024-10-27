@@ -9,7 +9,7 @@ _Ingénieur et Technical Artist avec plus de 6 ans d'expérience dans le dévelo
 **Ingénieur - Technical Artist** @ [Dontnod](https://dont-nod.com/fr/) _(Oct 2020 - Aujourd'hui)_ <br>
 TODO.
   - TODO
-  - **_Technologies utilisées:_** Unreal Engine 4, Unreal Engine 5, Houdini, VEX, Python, HLSL, Jira, SpeedTree, Substance, Blender.
+  - **_Technologies utilisées:_** Unreal Engine 4, Unreal Engine 5, Houdini, VEX, Python, HLSL, Jira, SpeedTree, Substance, Blender, Git, Perforce.
 <br><br>
 
 **Ingénieur Développeur** @ [Ooblada](https://www.ooblada.net/) _(Sep 2018 - Oct 2020)_ <br>
@@ -20,14 +20,14 @@ Développeur indépendant de jeux vidéo web et mobile.
   - Responsable de l’administration et de l’intégration du dépôt GIT.
   - Responsable de l’administration des builds du projet.
   - Participation aux réflexions sur le marketing, la monétisation et l’analyse des données utilisateurs du jeu.
-  - **_Technologies utilisées:_** Unity, C#, Python, SQL, HLSL, Firebase, Tableau, BigQuery, Jira, Ironsource.
+  - **_Technologies utilisées:_** Unity, C#, Python, SQL, HLSL, Firebase, Tableau, BigQuery, Jira, Ironsource, Git.
 <br><br>
 
 **Stagiaire Ingénieur** @ [Ooblada](https://todo.org/) _(Mar 2018 - Aou 2018)_ <br>
 Développeur indépendant de jeux vidéo web et mobile.
   - Conception et développement de jeux vidéos de réflexion pour smartphones.
   - Codé en C# à l’aide de Unity3D.
-  - **_Technologies utilisées:_** Unity, C#, Python.
+  - **_Technologies utilisées:_** Unity, C#, Python, Git.
 <br><br>
 
 **Stagiaire** @ [ARTEMIS](https://artemis.telecom-sudparis.eu/) _(Jui 2016 - Aou 2016)_ <br>
