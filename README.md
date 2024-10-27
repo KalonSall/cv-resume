@@ -6,13 +6,13 @@ _Ingénieur et Technical Artist avec plus de 6 ans d'expérience dans le dévelo
 
 ## 👩🏼‍💻 Expérience
 
-**Ingénieur - Technical Artist** @ [Dontnod](https://dont-nod.com/fr/) _(Oct 2020 - Aujourd'hui)_ <br>
+**Ingénieur - Technical Artist** @ [Dontnod](https://dont-nod.com/fr/) _(Octobre 2020 - Aujourd'hui)_ <br>
 TODO.
   - TODO
   - **_Technologies utilisées :_** Unreal Engine 4, Unreal Engine 5, Houdini, VEX, Python, HLSL, Jira, SpeedTree, Substance, Blender, Git, Perforce.
 <br><br>
 
-**Ingénieur Développeur** @ [Ooblada](https://www.ooblada.net/) _(Sep 2018 - Oct 2020)_ <br>
+**Ingénieur Développeur** @ [Ooblada](https://www.ooblada.net/) _(Septembre 2018 - Octobre 2020)_ <br>
 Développeur indépendant de jeux vidéo web et mobile.
   - Développement de jeux de puzzle pour plateformes Android et iOS.
   - Game Design et Programmation sur Unity.
@@ -23,14 +23,14 @@ Développeur indépendant de jeux vidéo web et mobile.
   - **_Technologies utilisées :_** Unity, C#, Python, SQL, HLSL, Firebase, Tableau, BigQuery, Jira, Ironsource, Git.
 <br><br>
 
-**Stagiaire Ingénieur** @ [Ooblada](https://todo.org/) _(Mar 2018 - Aou 2018)_ <br>
+**Stagiaire Ingénieur** @ [Ooblada](https://todo.org/) _(Mars 2018 - Août 2018)_ <br>
 Développeur indépendant de jeux vidéo web et mobile.
   - Conception et développement de jeux vidéos de réflexion pour smartphones.
   - Codé en C# à l’aide de Unity3D.
   - **_Technologies utilisées :_** Unity, C#, Python, Git.
 <br><br>
 
-**Stagiaire** @ [ARTEMIS](https://artemis.telecom-sudparis.eu/) _(Jui 2016 - Aou 2016)_ <br>
+**Stagiaire** @ [ARTEMIS](https://artemis.telecom-sudparis.eu/) _(Juin 2016 - Août 2016)_ <br>
 Département de Recherche en sciences et technologies de l'image numérique, affilié à Télécom SudParis (Advanced Research and Techniques for Multidimensional Imaging Systems).
   - Réalisation en Python d'un Réseau Neuronal de classification d'images (reconnaissance d'objets visuels par techniques d'apprentissage profond) pour le Département de Recherche en Imagerie ARTEMIS.
   - **_Technologies utilisées :_** Python, CUDA.
@@ -39,7 +39,7 @@ Département de Recherche en sciences et technologies de l'image numérique, aff
 
 ## 📌 Bénévolat
 
-**Respo Comm.** @ [BDE](https://bde-imtbs-tsp.fr/) _(Nov 2015 - Mai 2017)_<br>
+**Respo Comm.** @ [BDE](https://bde-imtbs-tsp.fr/) _(Novembre 2015 - Mai 2017)_<br>
 Bureau des Elèves de Télécom Sudparis et Télécom Ecole de Management
   - Management d’une équipe de 5 personnes
  - Création graphique (affiches, logos ...)
@@ -50,27 +50,27 @@ Bureau des Elèves de Télécom Sudparis et Télécom Ecole de Management
  • semaine et week-end d'intégration (450 personnes)
   <br><br>
 
-**Vice-Président** @ [BDA](https://bda-imtbs-tsp.fr/) _(Avr 2016 - Mai 2017)_ <br>
+**Vice-Président** @ [BDA](https://bda-imtbs-tsp.fr/) _(Avril 2016 - Mai 2017)_ <br>
 Bureau des Arts de Télécom SudParis et Télécom Ecole de Management.
   - Organisation de spectacles et concerts (Semaine des Arts, cabaret, compétitions artistiques)
 - Création de l'atelier d'Arts Plastiques de l'école (15 membres)
 - Enseignement de Photoshop à 40 étudiants
   <br><br>
 
-**Vice-président** @ [Paint'it](https://bda-imtbs-tsp.fr/clubs/paintit) _(Sep 2015 - Mai 2017)_<br>
+**Vice-président** @ [Paint'it](https://bda-imtbs-tsp.fr/clubs/paintit) _(Septembre 2015 - Mai 2017)_<br>
 Club d'Arts Plastiques de Télécom SudParis et Ecole de Management.
   - Création de l'atelier d'Arts Plastiques des deux Ecole Télécom SudParis et Ecole de Management
 - Encadrement et animation hebdomadaire des séances du club
 - Enseignement et organisation de projets artistiques
   <br><br>
 
-**Vice-président** @ [Sing'int](https://bda-imtbs-tsp.fr/clubs/singint) _(Nov 2015 - Mai 2017)_<br>
+**Vice-président** @ [Sing'int](https://bda-imtbs-tsp.fr/clubs/singint) _(Novembre 2015 - Mai 2017)_<br>
 Chorale de Télécom SudParis et Ecole de Management.
   - Chef de pupitre des Basses
 Responsable de la communication du club (création d'affiches, de logo, promotion des événements sur les réseaux sociaux)
   <br><br>
 
-**Membre du pôle Marketing et Communication** @ [AIESEC](https://aiesec.org/) _(Oct 2015 - Avr 2016)_<br>
+**Membre du pôle Marketing et Communication** @ [AIESEC](https://aiesec.org/) _(Octobre 2015 - Avril 2016)_<br>
 Association Internationale des Étudiants en Sciences Économiques et Commerciales.
   - Réalisation d'affiches, vidéos et newsletters
 - Participation à 2 conférences d'une semaine axées sur l'enseignement du marketing et de "soft skills"
@@ -85,7 +85,7 @@ Festival annuel de musique et culture des pays et régions d'origine celtique, �
   
 ## 🏆 Succès et Projets
 
-**4e Place** @ [Concours ARELA Bretagne](http://www.arelabretagne.levillage.org/) _(Jui 2012)_ <br>
+**4e Place** @ [Concours ARELA Bretagne](http://www.arelabretagne.levillage.org/) _(Juin 2012)_ <br>
 Edition 2012 du Concours Lycéen de l'Association Régionale des Enseignants de Langues Anciennes en Bretagne, documenté dans [Ouest France](https://www.ouest-france.fr/bretagne/rennes-35000/lycee-jean-mace-deux-latinistes-recompenses-1356890)
 <br><br>
 
