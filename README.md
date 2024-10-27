@@ -39,7 +39,7 @@ Département de Recherche en sciences et technologies de l'image numérique, aff
 
 ## 📌 Bénévolat
 
-**Respo Comm.** @ [BDE](https://bde-imtbs-tsp.fr/) _(Novembre 2015 - Mai 2017)_<br>
+**Responsable Communication** @ [BDE](https://bde-imtbs-tsp.fr/) _(Novembre 2015 - Mai 2017)_<br>
 Bureau des Elèves de [Télécom Sudparis](https://www.telecom-sudparis.eu/) et [Télécom Ecole de Management](https://imt-bs.eu/).
   - Management d’une équipe de 5 personnes
  - Création graphique (affiches, logos ...)
