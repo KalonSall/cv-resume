@@ -87,7 +87,7 @@ Festival annuel de musique et culture des pays et régions d'origine celtique, �
 ## 🏆 Succès et Projets
 
 **[Temper Tempest](https://kalonsall.itch.io/temper-tempest)** @ [JIN](https://jin.telecom-sudparis.eu/) _(Février 2018)_ <br>
-jeu a été réalisé dans le cadre du projet de fin d'étude de la filière Jeux Vidéos et Interactions du Numérique 2017/2018 des écoles d'ingénieurs [Télécom SudParis](https://www.telecom-sudparis.eu//) et [ENSIIE](https://www.ensiie.fr/)
+Jeu réalisé dans le cadre du projet de fin d'étude de la filière Jeux Vidéos et Interactions du Numérique 2017/2018 des écoles d'ingénieurs [Télécom SudParis](https://www.telecom-sudparis.eu//) et [ENSIIE](https://www.ensiie.fr/)
 <br><br>
 
 **[From The People](https://kalonsall.itch.io/from-the-people)** @ [UNIJAM 2017](https://itch.io/jam/unijam2017) _(Novembre 2017)_ <br>
