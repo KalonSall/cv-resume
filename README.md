@@ -98,7 +98,7 @@ Edition 2012 du Concours Lycéen de l'Association Régionale des Enseignants de 
 🏛️ **Latin** : Langue et Culture Classique <br>
 <br><br>
 
-## 👨🏻‍🎓 Education
+## 👨‍🎓 Education
 
 **Diplôme d'Ingénieur** Spécialisation : Imagerie, Master 2 : Jeux Vidéo et Intéractions Numériques<br>
 [Télécom SudParis](https://www.telecom-sudparis.eu//) - Evry (91), France _(2015 - 2018)_ <br>
