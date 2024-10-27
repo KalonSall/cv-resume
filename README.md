@@ -85,16 +85,16 @@ Festival annuel de musique et culture des pays et régions d'origine celtique, �
   
 ## 🏆 Succès et Projets
 
-**TODO Accomplishmeent Title** @ [TODO Event](https://hack.todo-link.tech/) _(Mon YEAR)_ <br>
-TODO Description.
+**4e Place** @ [Concours ARELA Bretagne](http://www.arelabretagne.levillage.org/) _(Jui 2012)_ <br>
+Edition 2012 du Concours Lycéen de l'Asssociation Régionale des Enseignants de Langues Anciennes en Bretagne, documenté dans [Ouest France](https://www.ouest-france.fr/bretagne/rennes-35000/lycee-jean-mace-deux-latinistes-recompenses-1356890)
 <br><br>
 
 ## 💬 Langues
 
 🇫🇷 **Français**: Langue maternelle <br>
-🇺🇸 **Anglais**: C2 - TOEIC 990 points (score parfait) <br>
-🇪🇸 **Espagnol**: B2 <br>
-🇯🇵 **Japonais**: A1 <br>
+🇺🇸 **Anglais**: [C2](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages#:~:text=and%20cohesive%20devices.-,C2,-Mastery) - [TOEIC](https://www.etsglobal.org/fr/en/programme/toeic-tests) 990 points (score parfait) <br>
+🇪🇸 **Espagnol**: [B2](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages#:~:text=opinions%20and%20plans.-,B2,-Vantage) <br>
+🇯🇵 **Japonais**: [A1](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages#:~:text=A%0ABasic%20user-,A1,-Breakthrough) <br>
 🏛️ **Latin**: Langue et Culture Classique <br>
 <br><br>
 
