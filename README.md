@@ -85,6 +85,22 @@ Festival annuel de musique et culture des pays et régions d'origine celtique, �
   
 ## 🏆 Succès et Projets
 
+**[From The People](https://kalonsall.itch.io/from-the-people)** @ [UNIJAM 2017](https://itch.io/jam/unijam2017) _(Novembre 2017)_ <br>
+From The People est un jeu développé dans le cadre de Unijam 2017, une Game Jam de 48h, en équipe avec 5 autres étudiants, sur le thème : "Si vous n'aimez pas votre vie, changez-la. Si vous ne pouvez pas changer votre vie, changez-vous."
+-   Prix Coup de Cœur du Public
+-   Prix de Meilleure Interprétation du Thème.
+<br><br>
+
+**Projet GATE Human'INT Bus** @ [Télécom SudParis](https://www.telecom-sudparis.eu//) _(Octobre 2015 - Septembre 2016)_ <br>
+Projet de première année d'étude d'école d'ingénieur dans le cadre de l'unité [Gestion et Apprentissage du Travail en Equipe](https://gate.wp.telecom-sudparis.eu/) (GATE)
+  - Envoi d'équipement informatique à des populations défavorisées d'Europe de l'Est
+<br><br>
+
+**Note Parfaite** @ [TIPE](https://fr.wikipedia.org/wiki/Travail_d%27initiative_personnelle_encadr%C3%A9) et [ADS](https://fr.wikipedia.org/wiki/Travail_d%27initiative_personnelle_encadr%C3%A9#L'ADS_(Analyse_de_documents_scientifiques)_(Partie_D)) _(Septembre 2014 - Juin 2015)_ <br>
+Epreuves des Concours aux Grandes Ecoles. Le Travail d'Initiative Personnelle Encadré (TIPE) est un projet monté au cours de l'année et présenté devant un jury. L'Analyse de Documents Scientifiques (ADS) consiste en la présentation d'un dossier scientifique sur un sujet hors-programme très ciblé, sans connaissance préalable, devant ce même jury.
+  - Conception d'un algorithme d'extraction automatique d'empreintes digitales laissées sur un tissu à partir de photos, destiné à l'usage des forces de l'ordre dans le cadre d'enquêtes criminelles.
+<br><br>
+
 **4e Place** @ [Concours ARELA Bretagne](http://www.arelabretagne.levillage.org/) _(Juin 2012)_ <br>
 Edition 2012 du Concours Lycéen de l'Association Régionale des Enseignants de Langues Anciennes en Bretagne, documenté dans [Ouest France](https://www.ouest-france.fr/bretagne/rennes-35000/lycee-jean-mace-deux-latinistes-recompenses-1356890)
 <br><br>
@@ -100,7 +116,7 @@ Edition 2012 du Concours Lycéen de l'Association Régionale des Enseignants de 
 
 ## 👨‍🎓 Education
 
-**Diplôme d'Ingénieur** Spécialisation : Imagerie, Master 2 : Jeux Vidéo et Intéractions Numériques<br>
+**Diplôme d'Ingénieur** Spécialisation : Imagerie, Master 2 : [Jeux Vidéo et Intéractions Numériques](https://www.telecom-sudparis.eu/formation/jeux-videos-interactions-collaborations-numeriques/)<br>
 [Télécom SudParis](https://www.telecom-sudparis.eu//) - Evry (91), France _(2015 - 2018)_ <br>
 
 **CPGE MPSI/MP** Math Sup. / Math Spé.<br>
