@@ -78,7 +78,7 @@ Association Internationale des Étudiants en Sciences Économiques et Commercial
   <br><br>
 
 **Point Information** @ [Festival Interceltique de Lorient](https://www.festival-interceltique.bzh/) _(Aou 2014)_<br>
-Festival annuel à Lorient, réunissant des dizaines de groupes des pays et régions d'origine celtique.
+Festival annuel de musique et culture des pays et régions d'origine celtique, à Lorient.
   - Aider, orienter et informer les visiteurs dans les rues de Lorient, où le Festival a lieu.
   <br><br>
   
