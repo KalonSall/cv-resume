@@ -20,7 +20,7 @@ Développeur indépendant de jeux vidéo web et mobile.
   - Responsable de l’administration et de l’intégration du dépôt GIT.
   - Responsable de l’administration des builds du projet.
   - Participation aux réflexions sur le marketing, la monétisation et l’analyse des données utilisateurs du jeu.
-  - **_Technologies utilisées:_** Unity, C#, Python, SQL, HLSL, Firebase, Tableau, BigQuery, Jira.
+  - **_Technologies utilisées:_** Unity, C#, Python, SQL, HLSL, Firebase, Tableau, BigQuery, Jira, Ironsource.
 <br><br>
 
 **Stagiaire Ingénieur** @ [Ooblada](https://todo.org/) _(Mar 2018 - Aou 2018)_ <br>
@@ -100,7 +100,7 @@ TODO Description.
 
 ## 👩🏼‍🎓 Education
 
-**Diplôme d'Ingénieur** Spécialisation : Imagerie (Master 2) Jeux Vidéo et Intéractions Numériques<br>
+**Diplôme d'Ingénieur** Spécialisation : Imagerie, Master 2 : Jeux Vidéo et Intéractions Numériques<br>
 [Télécom SudParis](https://www.telecom-sudparis.eu//) - Evry (91), France _(2015 - 2018)_ <br>
 
 **CPGE MPSI/MP** Math Sup. / Math Spé.<br>
