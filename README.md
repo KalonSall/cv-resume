@@ -9,7 +9,7 @@ _Ingénieur et Technical Artist avec plus de 6 ans d'expérience dans le dévelo
 **Ingénieur - Technical Artist** @ [Dontnod](https://dont-nod.com/fr/) _(Oct 2020 - Aujourd'hui)_ <br>
 TODO.
   - TODO
-  - **_Technologies utilisées:_** Unreal Engine 4, Unreal Engine 5, Houdini, VEX, Python, HLSL, Jira, SpeedTree, Substance, Blender, Git, Perforce.
+  - **_Technologies utilisées :_** Unreal Engine 4, Unreal Engine 5, Houdini, VEX, Python, HLSL, Jira, SpeedTree, Substance, Blender, Git, Perforce.
 <br><br>
 
 **Ingénieur Développeur** @ [Ooblada](https://www.ooblada.net/) _(Sep 2018 - Oct 2020)_ <br>
@@ -20,20 +20,20 @@ Développeur indépendant de jeux vidéo web et mobile.
   - Responsable de l’administration et de l’intégration du dépôt GIT.
   - Responsable de l’administration des builds du projet.
   - Participation aux réflexions sur le marketing, la monétisation et l’analyse des données utilisateurs du jeu.
-  - **_Technologies utilisées:_** Unity, C#, Python, SQL, HLSL, Firebase, Tableau, BigQuery, Jira, Ironsource, Git.
+  - **_Technologies utilisées :_** Unity, C#, Python, SQL, HLSL, Firebase, Tableau, BigQuery, Jira, Ironsource, Git.
 <br><br>
 
 **Stagiaire Ingénieur** @ [Ooblada](https://todo.org/) _(Mar 2018 - Aou 2018)_ <br>
 Développeur indépendant de jeux vidéo web et mobile.
   - Conception et développement de jeux vidéos de réflexion pour smartphones.
   - Codé en C# à l’aide de Unity3D.
-  - **_Technologies utilisées:_** Unity, C#, Python, Git.
+  - **_Technologies utilisées :_** Unity, C#, Python, Git.
 <br><br>
 
 **Stagiaire** @ [ARTEMIS](https://artemis.telecom-sudparis.eu/) _(Jui 2016 - Aou 2016)_ <br>
 Département de Recherche en sciences et technologies de l'image numérique, affilié à Télécom SudParis (Advanced Research and Techniques for Multidimensional Imaging Systems).
   - Réalisation en Python d'un Réseau Neuronal de classification d'images (reconnaissance d'objets visuels par techniques d'apprentissage profond) pour le Département de Recherche en Imagerie ARTEMIS.
-  - **_Technologies utilisées:_** Python, CUDA.
+  - **_Technologies utilisées :_** Python, CUDA.
     <br><br>
   
 
@@ -91,11 +91,11 @@ Edition 2012 du Concours Lycéen de l'Association Régionale des Enseignants de 
 
 ## 💬 Langues
 
-🇫🇷 **Français**: Langue maternelle <br>
-🇺🇸 **Anglais**: [C2](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages#:~:text=and%20cohesive%20devices.-,C2,-Mastery) - [TOEIC](https://www.etsglobal.org/fr/en/programme/toeic-tests) 990 points (score parfait) <br>
-🇪🇸 **Espagnol**: [B2](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages#:~:text=opinions%20and%20plans.-,B2,-Vantage) <br>
-🇯🇵 **Japonais**: [A1](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages#:~:text=A%0ABasic%20user-,A1,-Breakthrough) <br>
-🏛️ **Latin**: Langue et Culture Classique <br>
+🇫🇷 **Français** : Langue maternelle <br>
+🇺🇸 **Anglais** : [C2](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages#:~:text=and%20cohesive%20devices.-,C2,-Mastery) - [TOEIC](https://www.etsglobal.org/fr/en/programme/toeic-tests) 990 points (score parfait) <br>
+🇪🇸 **Espagnol** : [B2](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages#:~:text=opinions%20and%20plans.-,B2,-Vantage) <br>
+🇯🇵 **Japonais** : [A1](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages#:~:text=A%0ABasic%20user-,A1,-Breakthrough) <br>
+🏛️ **Latin** : Langue et Culture Classique <br>
 <br><br>
 
 ## 👩🏼‍🎓 Education
