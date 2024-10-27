@@ -13,7 +13,7 @@ TODO.
 <br><br>
 
 **Ingénieur Développeur** @ [Ooblada](https://www.ooblada.net/) _(Sep 2018 - TODO 2019)_ <br>
-TODO.
+Développeur indépendant de jeux vidéo web et mobile.
   - Développement de jeux de puzzle pour plateformes Android et iOS.
   - Game Design et Programmation sur Unity.
   - Développement d’outils techniques pour les équipes de tests, de marketing, créatives et d’analyse de données.
