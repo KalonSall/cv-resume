@@ -83,7 +83,7 @@ Festival annuel de musique et culture des pays et régions d'origine celtique, �
   <br><br>
   
   
-## 🏆 Accomplishments
+## 🏆 Succès et Projets
 
 **TODO Accomplishmeent Title** @ [TODO Event](https://hack.todo-link.tech/) _(Mon YEAR)_ <br>
 TODO Description.
