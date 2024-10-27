@@ -1,3 +1,4 @@
+<img src="https://media.licdn.com/dms/image/v2/D4E03AQE1RA4J1XBvkg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1699361965452?e=1735776000&v=beta&t=8OPpZGKyEr-3fdbKaZ-2Ejyk496bMsPF0NvCYj3dep0" alt="Photo of Simon Lanos" style="height: 256px; width:256px;"/><br>
 # Simon Lanos
 
 _Ingénieur et Technical Artist avec plus de 6 ans d'expérience dans le développement de jeux vidéo et d'outils techniques, basé à Paris 🇫🇷_ <br>
