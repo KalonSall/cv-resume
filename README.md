@@ -107,4 +107,4 @@ TODO Description.
 [Lycée Chateaubriand](https://www.lycee-chateaubriand.fr/les-cpge/presentation/) - Rennes (35), France _(2013 - 2015)_
 
 **BAC S-SVT** Mention Très Bien<br>
-[Lycée Jean Macé](https://www.lycee-jeanmace-rennes.ac-rennes.fr/) - Rennes (35), France _(2010 - 2012)_
+[Lycée Jean Macé](https://www.lycee-jeanmace-rennes.ac-rennes.fr/) - Rennes (35), France _(2010 - 2013)_
