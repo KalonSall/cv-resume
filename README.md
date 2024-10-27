@@ -1,6 +1,6 @@
 # Simon Lanos
 
-_Ingénieur and Technical Artist basé à Paris 🇫🇷_ <br>
+_Ingénieur et Technical Artist basé à Paris 🇫🇷_ <br>
 
 [Email](mailto:false.email@gmail.com) / [Website](https://falsewebsite.com/) / [LinkedIn](https://www.linkedin.com/in/simonlanos/) / [GitHub](https://github.com/KalonSall/) / [Twitter](https://twitter.com/falsetwitter/) / [DEV](https://dev.to/falseaccount/)
 
@@ -101,10 +101,10 @@ TODO Description.
 ## 👩🏼‍🎓 Education
 
 **Diplôme d'Ingénieur** Spécialisation : Imagerie (Master 2) Jeux Vidéo et Intéractions Numériques<br>
-[Télécom SudParis](https://www.lien-bidon.com/) - Evry (91), France _(2015 - 2018)_ <br>
+[Télécom SudParis](https://www.telecom-sudparis.eu//) - Evry (91), France _(2015 - 2018)_ <br>
 
 **CPGE MPSI/MP** Math Sup. / Math Spé.<br>
-[Lucée Chateaubriand](https://www.lien-bidon.edu/) - Rennes (35), France _(2013 - 2015)_
+[Lycée Chateaubriand](https://www.lycee-chateaubriand.fr/les-cpge/presentation/) - Rennes (35), France _(2013 - 2015)_
 
 **BAC S-SVT** Mention Très Bien<br>
-[Lycée Jean Macé](https://www.lien-bidon.edu/) - Rennes (35), France _(2010 - 2012)_
+[Lycée Jean Macé](https://www.lycee-jeanmace-rennes.ac-rennes.fr/) - Rennes (35), France _(2010 - 2012)_
