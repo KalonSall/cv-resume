@@ -86,7 +86,7 @@ Festival annuel de musique et culture des pays et régions d'origine celtique, �
 ## 🏆 Succès et Projets
 
 **[From The People](https://kalonsall.itch.io/from-the-people)** @ [UNIJAM 2017](https://itch.io/jam/unijam2017) _(Novembre 2017)_ <br>
-From The People est un jeu développé dans le cadre de Unijam 2017, une Game Jam de 48h, en équipe avec 5 autres étudiants, sur le thème : "Si vous n'aimez pas votre vie, changez-la. Si vous ne pouvez pas changer votre vie, changez-vous."
+Jeu développé dans le cadre de Unijam 2017, une Game Jam de 48h, en équipe avec 5 autres étudiants, sur le thème : "Si vous n'aimez pas votre vie, changez-la. Si vous ne pouvez pas changer votre vie, changez-vous."
 -   Prix Coup de Cœur du Public
 -   Prix de Meilleure Interprétation du Thème.
 <br><br>
