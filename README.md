@@ -1,6 +1,6 @@
 # Simon Lanos
 
-_Ingénieur et Technical Artist basé à Paris 🇫🇷_ <br>
+_Ingénieur et Technical Artist avec plus de 6 ans d'expérience dans le développement de jeux vidéo et d'outils techniques, basé à Paris 🇫🇷_ <br>
 
 [Email](mailto:simon.lanoslt@gmail.com) / [LinkedIn](https://www.linkedin.com/in/simonlanos/)
 
@@ -94,8 +94,8 @@ TODO Description.
 🇫🇷 **Français**: Langue maternelle <br>
 🇺🇸 **Anglais**: C2 - TOEIC 990 points (score parfait) <br>
 🇪🇸 **Espagnol**: B2 <br>
-🇯🇵 **Japonais**: Notions <br>
-🏛️ **Latin**: Culture Classique <br>
+🇯🇵 **Japonais**: A1 <br>
+🏛️ **Latin**: Langue et Culture Classique <br>
 <br><br>
 
 ## 👩🏼‍🎓 Education
