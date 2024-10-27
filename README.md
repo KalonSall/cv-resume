@@ -72,15 +72,15 @@ Chorale de Télécom SudParis et Ecole de Management.
 Responsable de la communication du club (création d'affiches, de logo, promotion des événements sur les réseaux sociaux)
   <br><br>
 
-**Membre du pôle Marketing et Communication** @ [AIESEC](https://queerjs.com/) _(Oct 2015 - Avr 2016)_<br>
-🏳️‍🌈 A meetup for everyone where queer speakers take the stage.
+**Membre du pôle Marketing et Communication** @ [AIESEC](https://aiesec.org/) _(Oct 2015 - Avr 2016)_<br>
+Association Internationale des Étudiants en Sciences Économiques et Commerciales.
   - Réalisation d'affiches, vidéos et newsletters
 - Participation à 2 conférences d'une semaine axées sur l'enseignement du marketing et de "soft skills"
 - Etudes marketing
   <br><br>
 
-**Point Information** @ [Festival Interceltique de Lorient](https://queerjs.com/) _(Aou 2014)_<br>
-🏳️‍🌈 A meetup for everyone where queer speakers take the stage.
+**Point Information** @ [Festival Interceltique de Lorient](https://www.festival-interceltique.bzh/) _(Aou 2014)_<br>
+Festival annuel à Lorient, réunissant des dizaines de groupes des pays et régions d'origine celtique.
   - Aider, orienter et informer les visiteurs dans les rues de Lorient, où le Festival a lieu.
   <br><br>
   
@@ -102,11 +102,11 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 
 ## 💬 Langues
 
-🇺🇸 **Français**: Langue maternelle <br>
-🇩🇪 **Anglais**: C2 - TOEIC 990 points (score parfait) <br>
-🇩🇪 **Espagnol**: B2 <br>
-🇩🇪 **Japonais**: Notions <br>
-🇩🇪 **Latin**: Culture Classique <br>
+🇫🇷 **Français**: Langue maternelle <br>
+🇺🇸 **Anglais**: C2 - TOEIC 990 points (score parfait) <br>
+🇪🇸 **Espagnol**: B2 <br>
+🇯🇵 **Japonais**: Notions <br>
+🏛️ **Latin**: Culture Classique <br>
 <br><br>
 
 ## 👩🏼‍🎓 Education
