@@ -6,36 +6,34 @@ _Ingénieur and Technical Artist basé à Paris 🇫🇷_ <br>
 
 ## 👩🏼‍💻 Experience
 
-**Ingénieur - Technical Artist** @ [Dontnod](https://todo.com/) _(TODO 2019 - Aujourd'hui)_ <br>
-No-code platform that enables professionals to build interactive applications.
-  - Founding member of BRYTER's design system team and continued to provide support and extend the component library
-  - Wrote code in multiple architecture layers, including the application core and integrations with external services
-  - Implemented a new Vue 3 app using Vite to replace a legacy Vue 2 and Webpack architecture
-  - **_Technologies used:_** TODO.
+**Ingénieur - Technical Artist** @ [Dontnod](https://dont-nod.com/fr/) _(TODO 2019 - Aujourd'hui)_ <br>
+TODO.
+  - TODO
+  - **_Technologies utilisées:_** TODO.
 <br><br>
 
-**Ingénieur Développeur** @ [Ooblada](https://todo.com/) _(Sep 2018 - TODO 2019)_ <br>
-No-code platform that enables professionals to build interactive applications.
+**Ingénieur Développeur** @ [Ooblada](https://www.ooblada.net/) _(Sep 2018 - TODO 2019)_ <br>
+TODO.
   - Développement de jeux de puzzle pour plateformes Android et iOS.
   - Game Design et Programmation sur Unity.
   - Développement d’outils techniques pour les équipes de tests, de marketing, créatives et d’analyse de données.
   - Responsable de l’administration et de l’intégration du dépôt GIT.
   - Responsable de l’administration des builds du projet.
   - Participation aux réflexions sur le marketing, la monétisation et l’analyse des données utilisateurs du jeu.
-  - **_Technologies used:_** TODO.
+  - **_Technologies utilisées:_** TODO.
 <br><br>
 
 **Stagiaire Ingénieur** @ [Ooblada](https://todo.org/) _(Mar 2018 - Aou 2018)_ <br>
-[Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
+Développeur indépendant de jeux vidéo web et mobile.
   - Conception et développement de jeux vidéos de réflexion pour smartphones.
   - Codé en C# à l’aide de Unity3D.
-  - **_Technologies used:_** CSS, React, TypeScript, Gatsby, GraphQL.
+  - **_Technologies utilisées:_** TODO, TODO.
 <br><br>
 
-**Stagiaire** @ [Département de recherche ARTEMIS](http://todo.com/) _(Jui 2016 - Aou 2016)_ <br>
-Early-stage startup focused on automated API testing and NLP.
+**Stagiaire** @ [ARTEMIS](https://artemis.telecom-sudparis.eu/) _(Jui 2016 - Aou 2016)_ <br>
+Département de Recherche en sciences et technologies de l'image numérique, affilié à Télécom SudParis (Advanced Research and Techniques for Multidimensional Imaging Systems).
   - Réalisation en Python d'un Réseau Neuronal de classification d'images (reconnaissance d'objets visuels par techniques d'apprentissage profond) pour le Département de Recherche en Imagerie ARTEMIS.
-  - **_Technologies used:_** TypeScript, React, Gatsby, Chakra, Next.js, Node.js, GraphQL, REST, Jest, CircleCI, Python.
+  - **_Technologies utilisées:_** TODO.
     <br><br>
   
 
@@ -87,17 +85,8 @@ Festival annuel à Lorient, réunissant des dizaines de groupes des pays et rég
   
 ## 🏆 Accomplishments
 
-**Won First Place** @ [Rainbows End Sex Tech Hackathon](https://hack.touchyfeely.tech/) _(May 2021)_ <br>
-Built [Tentilex](https://workwithcarolyn.com/blog/tentilex), a wearable armband that records your hand movement and generates a live 3D-model. 
-
-**Top Author Recognition** @ [DEV](https://dev.to/) _(2019 - 2020)_ <br>
-Named one of the Top 500 authors in 2019. Also wrote two articles that ranked in the weekly Top 7:
-  - [How to remove condescending language from documentation](https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p)
-  - [Onboarding a junior developer to your team? Here's 12 tips.](https://dev.to/carolstran/onboarding-a-junior-developer-to-your-team-here-s-12-tips-4g3a)
-<br><br>
-
-**Won Best Project** @ [Geek Girl Carrots Berlin Hackathon](http://www.hacklikeagirl.co/) _(Oct 2017)_<br>
-Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report and retrieve lost & found objects for travelers abroad.
+**TODO Accomplishmeent Title** @ [TODO Event](https://hack.todo-link.tech/) _(Mon YEAR)_ <br>
+TODO Description.
 <br><br>
 
 ## 💬 Langues
