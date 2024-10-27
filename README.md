@@ -6,13 +6,13 @@ _Ingénieur and Technical Artist basé à Paris 🇫🇷_ <br>
 
 ## 👩🏼‍💻 Experience
 
-**Ingénieur - Technical Artist** @ [Dontnod](https://dont-nod.com/fr/) _(TODO 2019 - Aujourd'hui)_ <br>
+**Ingénieur - Technical Artist** @ [Dontnod](https://dont-nod.com/fr/) _(Oct 2020 - Aujourd'hui)_ <br>
 TODO.
   - TODO
   - **_Technologies utilisées:_** TODO.
 <br><br>
 
-**Ingénieur Développeur** @ [Ooblada](https://www.ooblada.net/) _(Sep 2018 - TODO 2019)_ <br>
+**Ingénieur Développeur** @ [Ooblada](https://www.ooblada.net/) _(Sep 2018 - Oct 2020)_ <br>
 Développeur indépendant de jeux vidéo web et mobile.
   - Développement de jeux de puzzle pour plateformes Android et iOS.
   - Game Design et Programmation sur Unity.
