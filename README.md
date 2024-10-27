@@ -116,10 +116,10 @@ Edition 2012 du Concours Lycéen de l'Association Régionale des Enseignants de 
 
 ## 👨‍🎓 Education
 
-**Diplôme d'Ingénieur** Spécialisation : Imagerie, Master 2 : [Jeux Vidéo et Intéractions Numériques](https://www.telecom-sudparis.eu/formation/jeux-videos-interactions-collaborations-numeriques/)<br>
+**Diplôme d'Ingénieur** Spécialisation : Imagerie - Master 2 : [Jeux Vidéo et Intéractions Numériques](https://www.telecom-sudparis.eu/formation/jeux-videos-interactions-collaborations-numeriques/)<br>
 [Télécom SudParis](https://www.telecom-sudparis.eu//) - Evry (91), France _(2015 - 2018)_ <br>
 
-**CPGE MPSI/MP** Math Sup. / Math Spé.<br>
+**CPGE MPSI/MP** Classe Préparatoire aux Grandes Ecoles - Mathématiques, Physique et Science de l'Ingénieur (Math Sup. / Math Spé.)<br>
 [Lycée Chateaubriand](https://www.lycee-chateaubriand.fr/les-cpge/presentation/) - Rennes (35), France _(2013 - 2015)_
 
 **BAC S-SVT** Mention Très Bien<br>
