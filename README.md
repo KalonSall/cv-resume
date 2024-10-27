@@ -33,7 +33,7 @@ Développeur indépendant de jeux vidéo web et mobile.
 **Stagiaire** @ [ARTEMIS](https://artemis.telecom-sudparis.eu/) _(Jui 2016 - Aou 2016)_ <br>
 Département de Recherche en sciences et technologies de l'image numérique, affilié à Télécom SudParis (Advanced Research and Techniques for Multidimensional Imaging Systems).
   - Réalisation en Python d'un Réseau Neuronal de classification d'images (reconnaissance d'objets visuels par techniques d'apprentissage profond) pour le Département de Recherche en Imagerie ARTEMIS.
-  - **_Technologies utilisées:_** Python, CUDA Toolkit.
+  - **_Technologies utilisées:_** Python, CUDA.
     <br><br>
   
 
