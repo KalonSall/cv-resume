@@ -41,7 +41,7 @@ Early-stage startup focused on automated API testing and NLP.
 
 ## 📌 Bénévolat
 
-**Respo Comm.** @ [BDE](https://www.todo.org/conf/) _(Nov 2015 - Mai 2017)_<br>
+**Respo Comm.** @ [BDE](https://bde-imtbs-tsp.fr/) _(Nov 2015 - Mai 2017)_<br>
 Bureau des Elèves de Télécom Sudparis et Télécom Ecole de Management
   - Management d’une équipe de 5 personnes
  - Création graphique (affiches, logos ...)
@@ -52,21 +52,21 @@ Bureau des Elèves de Télécom Sudparis et Télécom Ecole de Management
  • semaine et week-end d'intégration (450 personnes)
   <br><br>
 
-**Vice-Président** @ [BDA](https://todo.org/) _(Avr 2016 - Mai 2017)_ <br>
+**Vice-Président** @ [BDA](https://bda-imtbs-tsp.fr/) _(Avr 2016 - Mai 2017)_ <br>
 Bureau des Arts de Télécom SudParis et Télécom Ecole de Management.
   - Organisation de spectacles et concerts (Semaine des Arts, cabaret, compétitions artistiques)
 - Création de l'atelier d'Arts Plastiques de l'école (15 membres)
 - Enseignement de Photoshop à 40 étudiants
   <br><br>
 
-**Vice-président** @ [Paint'it](https://www.redi-school.org/) _(Sep 2015 - Mai 2017)_<br>
+**Vice-président** @ [Paint'it](https://bda-imtbs-tsp.fr/clubs/paintit) _(Sep 2015 - Mai 2017)_<br>
 Club d'Arts Plastiques de Télécom SudParis et Ecole de Management.
   - Création de l'atelier d'Arts Plastiques des deux Ecole Télécom SudParis et Ecole de Management
 - Encadrement et animation hebdomadaire des séances du club
 - Enseignement et organisation de projets artistiques
   <br><br>
 
-**Vice-président** @ [Sing'int](https://queerjs.com/) _(Nov 2015 - Mai 2017)_<br>
+**Vice-président** @ [Sing'int](https://bda-imtbs-tsp.fr/clubs/singint) _(Nov 2015 - Mai 2017)_<br>
 Chorale de Télécom SudParis et Ecole de Management.
   - Chef de pupitre des Basses
 Responsable de la communication du club (création d'affiches, de logo, promotion des événements sur les réseaux sociaux)
