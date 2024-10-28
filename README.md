@@ -106,7 +106,7 @@ Epreuves des Concours aux Grandes Ecoles. Le Travail d'Initiative Personnelle En
   - Conception d'un algorithme d'extraction automatique d'empreintes digitales laissées sur un tissu à partir de photos, destiné à l'usage des forces de l'ordre dans le cadre d'enquêtes criminelles.
 <br><br>
 
-**[Rose in the Woods](https://www.forum-dessine.fr/projets/rose-in-the-woods)** @ 5 ans du [Forum Dessiné](https://www.forum-dessine.fr/) _(Juillet 2013 - Octobre 2013)_
+**[Rose in the Woods](https://www.forum-dessine.fr/projets/rose-in-the-woods)** @ 5 ans du [Forum Dessiné](https://www.forum-dessine.fr/) _(Juillet 2013 - Octobre 2013)_<br>
 TODO
 <br><br>
 
