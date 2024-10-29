@@ -46,29 +46,29 @@ Bureau des Elèves de [Télécom Sudparis](https://www.telecom-sudparis.eu/) et 
  - Création graphique (affiches, logos ...)
  - Community management des réseaux sociaux des élèves de l’école
  - Participation active à l’organisation et l’animation des événements du BDE :
- • Student parties (>1000 people on campus)
- • forum des entreprises (16 entreprises)
- • semaine et week-end d'intégration (450 personnes)
+   - Student parties (>1000 people on campus)
+   - forum des entreprises (16 entreprises)
+   - semaine et week-end d'intégration (450 personnes)
   <br><br>
 
 **Vice-Président** @ [BDA](https://bda-imtbs-tsp.fr/) _(Avril 2016 - Mai 2017)_ <br>
 Bureau des Arts de [Télécom SudParis](https://www.telecom-sudparis.eu/) et [Télécom Ecole de Management](https://imt-bs.eu/).
   - Organisation de spectacles et concerts (Semaine des Arts, cabaret, compétitions artistiques)
-- Création de l'atelier d'Arts Plastiques de l'école (15 membres)
-- Enseignement de Photoshop à 40 étudiants
+  - Création de l'atelier d'Arts Plastiques de l'école (15 membres)
+  - Enseignement de Photoshop à 40 étudiants
   <br><br>
 
 **Vice-président** @ [Paint'IT](https://bda-imtbs-tsp.fr/clubs/paintit) _(Septembre 2015 - Mai 2017)_<br>
 Club d'Arts Plastiques de [Télécom SudParis](https://www.telecom-sudparis.eu/) et [Télécom Ecole de Management](https://imt-bs.eu/).
   - Création de l'atelier d'Arts Plastiques des deux Ecole Télécom SudParis et Ecole de Management
-- Encadrement et animation hebdomadaire des séances du club
-- Enseignement et organisation de projets artistiques
+  - Encadrement et animation hebdomadaire des séances du club
+  - Enseignement et organisation de projets artistiques
   <br><br>
 
 **Vice-président** @ [Sing'INT](https://bda-imtbs-tsp.fr/clubs/singint) _(Novembre 2015 - Mai 2017)_<br>
 Chorale de [Télécom SudParis](https://www.telecom-sudparis.eu/) et [Télécom Ecole de Management](https://imt-bs.eu/).
   - Chef de pupitre des Basses
-Responsable de la communication du club (création d'affiches, de logo, promotion des événements sur les réseaux sociaux)
+  - Responsable de la communication du club (création d'affiches, de logo, promotion des événements sur les réseaux sociaux)
   <br><br>
 
 **Membre du pôle Marketing et Communication** @ [AIESEC](https://aiesec.org/) _(Octobre 2015 - Avril 2016)_<br>
