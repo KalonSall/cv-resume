@@ -7,8 +7,8 @@ _Ingénieur et Technical Artist avec plus de 6 ans d'expérience dans le dévelo
 
 ## 👨‍💻 Expérience
 
-**Ingénieur - Technical Artist** @ [Dontnod](https://dont-nod.com/fr/) _(Octobre 2020 - Aujourd'hui)_ <br>
-TODO.
+**Ingénieur - Technical Artist** @ [DON'T NOD](https://dont-nod.com/fr/) _(Octobre 2020 - Aujourd'hui)_ <br>
+Développeur et éditeur indépendant de jeux vidéo PC et consoles basé à Paris et à Montréal.
   - [Banishers: Ghosts of New Eden](https://store.steampowered.com/app/1493640/Banishers_Ghosts_of_New_Eden/)
   - P12 🪐
   - P14 🦇
