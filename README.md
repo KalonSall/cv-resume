@@ -51,10 +51,20 @@ Développeur et éditeur indépendant de jeux vidéo PC et consoles basé à Par
     - Capacité d’adaptation avec une facilité pour communiquer de manière claire avec différents interlocuteurs·rices
     - Curiosité pour s’informer constamment des nouvelles technologies
   - Relation équipe :
-    - supports aux équipes dans la réalisation de leurs tâches, la résolution de problèmes spécifiques de blocages de production et suivi technique des assets dans le moteur 
+    - Ensemble des équipes graphiques : supports aux équipes dans la réalisation de leurs tâches, la résolution de problèmes spécifiques de blocages de production et suivi technique des assets dans le moteur 
   - [Banishers: Ghosts of New Eden](https://store.steampowered.com/app/1493640/Banishers_Ghosts_of_New_Eden/)
+    - LODs
+    - Correstion des géométries mal faites
+    - Imposteurs végét
+    - LMDs
+    - Decals sans clipping
+    - Planches dans le sol pour guider le joueur bien mélangées au sol
+    - Creeping Ivy
+    - Toiles d'araignées (non utilisées)
   - P12 🪐
+    - Recherche de routes auto dnas la montagne (A* custom et compliqué)
   - P14 🦇
+    - Outils création de Venise
   - **_Technologies utilisées :_** Unreal Engine 4, Unreal Engine 5, Houdini, VEX, Python, HLSL, Jira, SpeedTree, Substance, Blender, Git, Perforce.
 <br><br>
 
