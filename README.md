@@ -61,10 +61,16 @@ Développeur et éditeur indépendant de jeux vidéo PC et consoles basé à Par
     - Planches dans le sol pour guider le joueur bien mélangées au sol
     - Creeping Ivy
     - Toiles d'araignées (non utilisées)
+    - vent
+    - shader env
+    - shader chara
   - P12 🪐
     - Recherche de routes auto dnas la montagne (A* custom et compliqué)
+    - shader env
   - P14 🦇
     - Outils création de Venise
+    - shader env
+    - shader chara
   - **_Technologies utilisées :_** Unreal Engine 4, Unreal Engine 5, Houdini, VEX, Python, HLSL, Jira, SpeedTree, Substance, Blender, Git, Perforce.
 <br><br>
 
