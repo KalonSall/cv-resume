@@ -9,6 +9,49 @@ _Ingénieur et Technical Artist avec plus de 6 ans d'expérience dans le dévelo
 
 **Ingénieur - Technical Artist** @ [DON'T NOD](https://dont-nod.com/fr/) _(Octobre 2020 - Aujourd'hui)_ <br>
 Développeur et éditeur indépendant de jeux vidéo PC et consoles basé à Paris et à Montréal.
+  - Faire le lien entre les équipes de programmation et les artistes 3D (Environment, Props, Character, VFX, Lighting) en charge de créer l’univers du jeu.
+  - Rôle d’assurer la qualité artistique du jeu tout en respectant les contraintes techniques du moteur.
+  - Traduire de manière technique les intentions artistiques.
+  - Proposer des solutions en adéquation avec les budgets et délais impartis par la production.
+  - Pouvoir mettre en œuvre la vision artistique attendue.
+  - Assurer que le flux de travail soit le plus optimisé possible pour garantir les meilleures performances.
+  - Développer des outils graphiques et écrire des scripts pour les équipes artistiques.
+  - Produire du contenu artistique pour les équipes de programmation.
+  - Superviser l’intégration des données graphiques dans le moteur du jeu et s’assurer que les fichiers numériques fonctionnent correctement.
+  - Accompagner les équipes artistiques pour se former aux nouvelles technologies et aux nouveaux processus de travail et produire et actualiser les documentations associées.
+  - Elaboration et développement des systèmes, outils nécessaires à la production.
+  - Analyse des besoins artistiques et techniques du jeu.
+  - Information auprès des équipes graphiques des contraintes techniques.
+  - Définition, préparation et adaptation des outils graphiques utiles à la production.
+  - Supervision de l’architecture, de l'intégration et de la validation des données graphiques dans le moteur.
+  - Elaboration et maintien des shaders.
+  - Validation des assets.
+  - Optimisation des éléments graphiques et de la performance.
+  - Elaboration et optimisation du pipeline de production et des workflows
+  - Optimisation des éléments graphiques en respectant les contraintes de performances des plateformes
+  - Remontée des problématiques techniques rencontrées au Technical Art Director et/ou au Technical Director
+  - Test et correction des outils avant déploiement
+  - Debug et fix pour assurer les performances
+  - Mise à disposition et maintien de la documentation à jour
+  - Production et mise à jour des documents concernant les outils, méthodes, formations, processus et contraintes moteur
+  - Élaboration de la nomenclature de l'ensemble des fichiers créés par l’équipe graphique afin de structurer l'emplacement des données et faciliter leurs repérages
+  - Identification des meilleurs outils et méthodes afin d'améliorer le travail de l'équipe graphique
+  - Veille sur les technologies, moteur
+  - Maîtrise 
+    - Pipeline du rendu temps réel 3D 
+    - Langage de programmation (Python) 
+    - Fonctionnement d’un moteur (Unreal) 
+    - Rédaction de documents à vocation technique ou néophyte en français et anglais
+  - Connaissance
+    - Outils de création graphique (Houdini, Blender, Substance, Zbrush..)
+  - Savoir-être :
+    - Ecoute et esprit d'analyse sur les contraintes données (design, technique, process) pour être force de proposition sur des solutions techniques et un outillage adapté
+    - Sens de la diplomatie pour trouver des compromis qui puissent satisfaire deux visions (artistiques et techniques) ayant chacune leurs besoins et leurs limites
+    - Pédagogie pour former les utilisateurs·rices à des outils ou des process
+    - Capacité d’adaptation avec une facilité pour communiquer de manière claire avec différents interlocuteurs·rices
+    - Curiosité pour s’informer constamment des nouvelles technologies
+  - Relation équipe :
+    - supports aux équipes dans la réalisation de leurs tâches, la résolution de problèmes spécifiques de blocages de production et suivi technique des assets dans le moteur 
   - [Banishers: Ghosts of New Eden](https://store.steampowered.com/app/1493640/Banishers_Ghosts_of_New_Eden/)
   - P12 🪐
   - P14 🦇
