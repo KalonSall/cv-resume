@@ -10,6 +10,8 @@ _Ingénieur et Technical Artist avec plus de 6 ans d'expérience dans le dévelo
 **Ingénieur - Technical Artist** @ [Dontnod](https://dont-nod.com/fr/) _(Octobre 2020 - Aujourd'hui)_ <br>
 TODO.
   - [Banishers: Ghosts of New Eden](https://store.steampowered.com/app/1493640/Banishers_Ghosts_of_New_Eden/)
+  - P12 🪐
+  - P14 🦇
   - **_Technologies utilisées :_** Unreal Engine 4, Unreal Engine 5, Houdini, VEX, Python, HLSL, Jira, SpeedTree, Substance, Blender, Git, Perforce.
 <br><br>
 
