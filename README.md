@@ -53,6 +53,9 @@ Développeur et éditeur indépendant de jeux vidéo PC et consoles basé à Par
   - Relation équipe :
     - Ensemble des équipes graphiques : supports aux équipes dans la réalisation de leurs tâches, la résolution de problèmes spécifiques de blocages de production et suivi technique des assets dans le moteur 
   - [Banishers: Ghosts of New Eden](https://store.steampowered.com/app/1493640/Banishers_Ghosts_of_New_Eden/)
+    - Jeu PC et consoles (Unreal Engine)
+    - Création d’outils de génération procédurale pour les puzzles et environnement du jeu
+    - Responsable des shaders du projet
     - LODs
     - Correstion des géométries mal faites
     - Imposteurs végét
@@ -71,7 +74,7 @@ Développeur et éditeur indépendant de jeux vidéo PC et consoles basé à Par
     - Outils création de Venise
     - shader env
     - shader chara
-  - **_Technologies utilisées :_** Unreal Engine 4, Unreal Engine 5, Houdini, VEX, Python, HLSL, Jira, SpeedTree, Substance, Blender, Git, Perforce.
+  - **_Technologies utilisées :_** Unreal Engine 4, Unreal Engine 5, Houdini, VEX, Python, HLSL, Jira, SpeedTree, Substance, Blender, Git, Perforce, génération procédurale, visual code.
 <br><br>
 
 **Ingénieur Développeur** @ [Ooblada](https://www.ooblada.net/) _(Septembre 2018 - Octobre 2020)_ <br>
@@ -82,19 +85,38 @@ Développeur indépendant de jeux vidéo web et mobile. [Pulp & Logic](https://w
   - Responsable de l’administration et de l’intégration du dépôt GIT.
   - Responsable de l’administration des builds du projet.
   - Participation aux réflexions sur le marketing, la monétisation et l’analyse des données utilisateurs du jeu.
-  - **_Technologies utilisées :_** Unity, C#, Python, SQL, HLSL, Firebase, Tableau, BigQuery, Jira, Ironsource, Git.
+  - Jeu de puzzle pour plateformes Android et iOS (Unity)
+  - Développement d’outils techniques pour les équipes de tests, de
+marketing, créatives et d’analyse de données
+  - Responsable de l’implémentation des graphismes et animations
+  - Responsable de l’administration et de l’intégration du dépôt GIT
+  - Responsable de l’administration des builds du projet
+  - Participation aux réflexions sur le marketing, la monétisation et
+l’analyse des données utilisateurs du jeu
+  - Autres responsabilités :
+    - Formation aux shaders pour les programmeurs
+    - Formation à Unity pour les graphistes
+    - Participation au recrutement des développeurs
+
+  - **_Technologies utilisées :_** Unity, C#, Python, SQL, HLSL, Firebase, Tableau, BigQuery, Jira, Ironsource, Git, génération procédurale, visual studio.
 <br><br>
 
 **Stagiaire Ingénieur** @ [Ooblada](https://todo.org/) _(Mars 2018 - Août 2018)_ <br>
 Développeur indépendant de jeux vidéo web et mobile.
   - Conception et développement de jeux vidéos de réflexion pour smartphones.
   - Codé en C# à l’aide de Unity3D.
-  - **_Technologies utilisées :_** Unity, C#, Python, Git.
+  - Jeu de puzzle pour plateformes iOS (Unity)
+  - Lead developer sur le projet
+  - Développement d’outils de création procédurale, de résolution et d’analyse de Nonogrammes (puzzles)
+  - **_Technologies utilisées :_** Unity, C#, Python, Git, génération procédurale, visual studio.
 <br><br>
 
 **Stagiaire** @ [ARTEMIS](https://artemis.telecom-sudparis.eu/) _(Juin 2016 - Août 2016)_ <br>
 Département de Recherche en sciences et technologies de l'image numérique, affilié à Télécom SudParis (Advanced Research and Techniques for Multidimensional Imaging Systems).
   - Réalisation en Python d'un Réseau Neuronal de classification d'images (reconnaissance d'objets visuels par techniques d'apprentissage profond) pour le Département de Recherche en Imagerie ARTEMIS.
+  - Développement de réseaux neuronaux de vision par ordinateur
+  - Projet en Python destiné à l’assistance des non-voyants
+
   - **_Technologies utilisées :_** Python, CUDA.
     <br><br>
   
@@ -106,6 +128,7 @@ Bureau des Elèves de [Télécom Sudparis](https://www.telecom-sudparis.eu/) et 
   - Management d’une équipe de 5 personnes
  - Création graphique (affiches, logos ...)
  - Community management des réseaux sociaux des élèves de l’école
+ - Organisation, sécurité et animation d’évènements
  - Participation active à l’organisation et l’animation des événements du BDE :
    - Student parties (>1000 people on campus)
    - forum des entreprises (16 entreprises)
@@ -167,9 +190,17 @@ Epreuves des Concours aux Grandes Ecoles. Le Travail d'Initiative Personnelle En
   - Conception d'un algorithme d'extraction automatique d'empreintes digitales laissées sur un tissu à partir de photos, destiné à l'usage des forces de l'ordre dans le cadre d'enquêtes criminelles.
 <br><br>
 
-**[Rose in the Woods](https://www.forum-dessine.fr/projets/rose-in-the-woods)** @ 5 ans du [Forum Dessiné](https://www.forum-dessine.fr/) _(Juillet 2013 - Octobre 2013)_<br>
-TODO
-<br><br>
+**Projets anniversaires** @ [Forum Dessiné](https://www.forum-dessine.fr/) _(2010 - 2023)_<br>
+Contributions aux projets anniversaires (jeux vidéos et projets artistiques) de la communauté d'artiste du [Forum Dessiné](https://www.forum-dessine.fr/). 
+  - [15.0 FM La Radio du Forum Dessiné](https://www.forum-dessine.fr/Projets/podcasts) - Projet des 15 ans _(2023)_ - Podcasts
+  - [Lemon Nine, la chaîne musicale](https://www.forum-dessine.fr/Projets/lemon-nine) - Projet des 9 ans _(2017)_ - Clips Musicaux
+  - [La gazette de Citropia](https://www.forum-dessine.fr/Projets/la-gazette-de-citropia) - Projet des 8 ans _(2016)_ - Magazine
+  - [Citropia](https://www.forum-dessine.fr/Projets/citropia) - Projet des 7 ans _(2015)_ - Jeu Point-and-click
+  - [Le guide du voyageur Lubien](https://www.forum-dessine.fr/Projets/le-guide-du-voyageur-lubien) - Projet des 6 ans _(2014)_ - Jeu d'aventure textuel
+  - [Rose in the Woods](https://www.forum-dessine.fr/Projets/rose-in-the-woods) - Projet des 5 ans _(2013)_ - Jeu d'action / stratégie developpé au sein de [La Petite Fabrique de Jeux Vidéo](https://fabrique-jeu-video.blogspot.com/) ayant bénéficié d'une campagne de financement participatif réussie
+  - [Modératueurs](https://www.forum-dessine.fr/Projets/moderatueurs) - Projet des 4 ans _(2012)_ - Jeu Point-and-click
+  - [Lubiséum](https://www.forum-dessine.fr/Projets/lubiseum) - Projet des 3 ans _(2011)_ - Jeu de quizz
+  - [Lubien, l'aventure](https://www.forum-dessine.fr/Projets/lubien-laventure) - Projet des 2 ans _(2010)_ - Jeu de plate-forme
 
 **4e Place** @ [Concours ARELA Bretagne](http://www.arelabretagne.levillage.org/) _(Juin 2012)_ <br>
 Edition 2012 du Concours Lycéen de l'Association Régionale des Enseignants de Langues Anciennes en Bretagne, documenté dans [Ouest France](https://www.ouest-france.fr/bretagne/rennes-35000/lycee-jean-mace-deux-latinistes-recompenses-1356890)
