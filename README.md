@@ -201,6 +201,7 @@ Contributions aux projets anniversaires (jeux vidéos et projets artistiques) de
   - [Modératueurs](https://www.forum-dessine.fr/Projets/moderatueurs) - Projet des 4 ans _(2012)_ - Jeu Point-and-click
   - [Lubiséum](https://www.forum-dessine.fr/Projets/lubiseum) - Projet des 3 ans _(2011)_ - Jeu de quizz
   - [Lubien, l'aventure](https://www.forum-dessine.fr/Projets/lubien-laventure) - Projet des 2 ans _(2010)_ - Jeu de plate-forme
+<br><br>
 
 **4e Place** @ [Concours ARELA Bretagne](http://www.arelabretagne.levillage.org/) _(Juin 2012)_ <br>
 Edition 2012 du Concours Lycéen de l'Association Régionale des Enseignants de Langues Anciennes en Bretagne, documenté dans [Ouest France](https://www.ouest-france.fr/bretagne/rennes-35000/lycee-jean-mace-deux-latinistes-recompenses-1356890)
