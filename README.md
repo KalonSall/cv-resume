@@ -9,72 +9,40 @@ _Ingénieur et Technical Artist avec plus de 6 ans d'expérience dans le dévelo
 
 **Ingénieur - Technical Artist** @ [DON'T NOD](https://dont-nod.com/fr/) _(Octobre 2020 - Aujourd'hui)_ <br>
 Développeur et éditeur indépendant de jeux vidéo PC et consoles basé à Paris et à Montréal.
-  - Faire le lien entre les équipes de programmation et les artistes 3D (Environment, Props, Character, VFX, Lighting) en charge de créer l’univers du jeu.
-  - Rôle d’assurer la qualité artistique du jeu tout en respectant les contraintes techniques du moteur.
-  - Traduire de manière technique les intentions artistiques.
-  - Proposer des solutions en adéquation avec les budgets et délais impartis par la production.
-  - Pouvoir mettre en œuvre la vision artistique attendue.
-  - Assurer que le flux de travail soit le plus optimisé possible pour garantir les meilleures performances.
-  - Développer des outils graphiques et écrire des scripts pour les équipes artistiques.
-  - Produire du contenu artistique pour les équipes de programmation.
-  - Superviser l’intégration des données graphiques dans le moteur du jeu et s’assurer que les fichiers numériques fonctionnent correctement.
-  - Accompagner les équipes artistiques pour se former aux nouvelles technologies et aux nouveaux processus de travail et produire et actualiser les documentations associées.
-  - Elaboration et développement des systèmes, outils nécessaires à la production.
-  - Analyse des besoins artistiques et techniques du jeu.
-  - Information auprès des équipes graphiques des contraintes techniques.
-  - Définition, préparation et adaptation des outils graphiques utiles à la production.
-  - Supervision de l’architecture, de l'intégration et de la validation des données graphiques dans le moteur.
-  - Elaboration et maintien des shaders.
-  - Validation des assets.
-  - Optimisation des éléments graphiques et de la performance.
-  - Elaboration et optimisation du pipeline de production et des workflows
-  - Optimisation des éléments graphiques en respectant les contraintes de performances des plateformes
-  - Remontée des problématiques techniques rencontrées au Technical Art Director et/ou au Technical Director
-  - Test et correction des outils avant déploiement
-  - Debug et fix pour assurer les performances
-  - Mise à disposition et maintien de la documentation à jour
-  - Production et mise à jour des documents concernant les outils, méthodes, formations, processus et contraintes moteur
-  - Élaboration de la nomenclature de l'ensemble des fichiers créés par l’équipe graphique afin de structurer l'emplacement des données et faciliter leurs repérages
-  - Identification des meilleurs outils et méthodes afin d'améliorer le travail de l'équipe graphique
-  - Veille sur les technologies, moteur
-  - Maîtrise 
-    - Pipeline du rendu temps réel 3D 
-    - Langage de programmation (Python) 
-    - Fonctionnement d’un moteur (Unreal) 
-    - Rédaction de documents à vocation technique ou néophyte en français et anglais
-  - Connaissance
-    - Outils de création graphique (Houdini, Blender, Substance, Zbrush..)
-  - Savoir-être :
-    - Ecoute et esprit d'analyse sur les contraintes données (design, technique, process) pour être force de proposition sur des solutions techniques et un outillage adapté
-    - Sens de la diplomatie pour trouver des compromis qui puissent satisfaire deux visions (artistiques et techniques) ayant chacune leurs besoins et leurs limites
-    - Pédagogie pour former les utilisateurs·rices à des outils ou des process
-    - Capacité d’adaptation avec une facilité pour communiquer de manière claire avec différents interlocuteurs·rices
-    - Curiosité pour s’informer constamment des nouvelles technologies
-  - Relation équipe :
-    - Ensemble des équipes graphiques : supports aux équipes dans la réalisation de leurs tâches, la résolution de problèmes spécifiques de blocages de production et suivi technique des assets dans le moteur 
-  - [Banishers: Ghosts of New Eden](https://store.steampowered.com/app/1493640/Banishers_Ghosts_of_New_Eden/)
-    - Jeu PC et consoles (Unreal Engine)
-    - Création d’outils de génération procédurale pour les puzzles et environnement du jeu
-    - Responsable des shaders du projet
-    - LODs
-    - Correstion des géométries mal faites
-    - Imposteurs végét
-    - LMDs
-    - Decals sans clipping
-    - Planches dans le sol pour guider le joueur bien mélangées au sol
-    - Creeping Ivy
-    - Toiles d'araignées (non utilisées)
-    - vent
-    - shader env
-    - shader chara
-  - P12 🪐
-    - Recherche de routes auto dnas la montagne (A* custom et compliqué)
-    - shader env
-  - P14 🦇
-    - Outils création de Venise
-    - shader env
-    - shader chara
-  - **_Technologies utilisées :_** Unreal Engine 4, Unreal Engine 5, Houdini, VEX, Python, HLSL, Jira, SpeedTree, Substance, Blender, Git, Perforce, génération procédurale, visual code.
+  - Interface entre les équipes de programmation et les équipes artistiques (Enviro, Chara, VFX, Lighting) pour traduire les intentions artistiques en solutions réalisables et de qualité tout en respectant contraintes techniques, délais de production et budgets.
+  - Développement et optimisation de workflows, pipelines et outils nécessaires à la production et aux performances.
+  - Supervision de l’intégration des assets dans le moteur de jeu.
+  - Formation des équipes artistiques aux outils et technologies.
+  - Rédaction et mise à jour de guides et documentations techniques.
+  - Responsable du développement de shaders, maîtrise du pipeline de rendu 3D.
+  - Validation technique, optimisation et debugging des éléments graphiques.
+  - Veille technologique
+  - **_Technologies utilisées :_** Unreal Engine 4, Unreal Engine 5, Houdini, PIX, Python, HLSL, SpeedTree, Substance Designer, Blender, Git, Perforce, Jira, Visual Code.
+  <br>
+  
+[Banishers: Ghosts of New Eden](https://store.steampowered.com/app/1493640/Banishers_Ghosts_of_New_Eden/) _(Octobre 2020 - Février 2024)_<br>
+  Jeu Action-RPG narratif pour PC, XBox Series et PS5.
+  - Génération procédurale d'éléments graphiques pour puzzles et environnements (toiles d'araignées, racines maléfiques ...).
+  - Développement d'outils de générations de chaîne complète de LODs, responsable de leur qualité et performances pour l'intégralité des assets 3D du jeu, dont les imposteurs de végétation.
+  - Développement d'outil de correction automatique de la modélisation et des paramétrages des assets 3D.
+  - Maintien et amélioration du rendu et des performances du système de Landscape Mesh Decals (LMDs) permettant d'habiller les sols du jeu.
+  - Shaders procéduraux pour l'environnement et la cohésion visuel de ceux-ci dans leurs scènes (Decals, neige, givre, intersection avec le sol, ...).
+  - Système de vent statique et dynamique dans la végétation du jeu.
+  - Suivi technique appuyé de l'équipe Enviro
+  - Maintien des shaders utilisés par les équipes artiqtiques
+  <br>
+
+Projet Non Annoncé 12 _(Février 2024 - Avril 2024)_ <br>
+  - Recherche et développements d'outils de génération procédurale pour jeu à monde ouvert (biomes, terrain, réseaux routiers ...)
+  - Shaders procéduraux pour l'habillage des sols de l'équipe Enviro
+  - Shaders procéduraux pour les prototypes de l'équipe Level Design
+  - Amélioration du rendu des shaders préexistants de l'équipe Chara
+  <br>
+
+  Projet Non Annoncé 14 _(Avril 2024 - Aujourd'hui)_  <br>
+  - Recherche et développements d'outils de génération procédurale de villes, incluant batiments, rues, canaux, toits, etc.
+  - Développement des shaders Enviro
+  - Continuation de l'amélioration des shaders Chara
 <br><br>
 
 **Ingénieur Développeur** @ [Ooblada](https://www.ooblada.net/) _(Septembre 2018 - Octobre 2020)_ <br>
