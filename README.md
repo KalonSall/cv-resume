@@ -60,7 +60,6 @@ Développeur indépendant de jeux vidéo web et mobile.
       - Formation aux shaders pour les programmeurs
       - Formation à Unity pour les graphistes
       - Participation au recrutement des développeurs
-
   - **_Technologies utilisées :_** Unity, C#, Python, SQL, HLSL, Firebase, Tableau, BigQuery, Jira, Ironsource, Git, génération procédurale, visual studio.
 <br><br>
 
@@ -79,7 +78,6 @@ Département de Recherche en sciences et technologies de l'image numérique, aff
   - Réalisation en Python d'un Réseau Neuronal de classification d'images (reconnaissance d'objets visuels par techniques d'apprentissage profond) pour le Département de Recherche en Imagerie ARTEMIS.
   - Développement de réseaux neuronaux de vision par ordinateur
   - Projet en Python destiné à l’assistance des non-voyants
-
   - **_Technologies utilisées :_** Python, CUDA.
     <br><br>
   
