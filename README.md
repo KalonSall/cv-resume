@@ -18,53 +18,48 @@ Développeur et éditeur indépendant de jeux vidéo PC et consoles basé à Par
   - Validation technique, optimisation et debugging des éléments graphiques.
   - Veille technologique
   - **_Technologies utilisées :_** Unreal Engine 4, Unreal Engine 5, Houdini, PIX, Python, HLSL, SpeedTree, Substance Designer, Blender, Git, Perforce, Jira, Visual Code.
-  <br>
-  
-[Banishers: Ghosts of New Eden](https://store.steampowered.com/app/1493640/Banishers_Ghosts_of_New_Eden/) _(Octobre 2020 - Février 2024)_<br>
-  Jeu Action-RPG narratif pour PC, XBox Series et PS5.
-  - Génération procédurale d'éléments graphiques pour puzzles et environnements (toiles d'araignées, racines maléfiques ...).
-  - Développement d'outils de générations de chaîne complète de LODs, responsable de leur qualité et performances pour l'intégralité des assets 3D du jeu, dont les imposteurs de végétation.
-  - Développement d'outil de correction automatique de la modélisation et des paramétrages des assets 3D.
-  - Maintien et amélioration du rendu et des performances du système de Landscape Mesh Decals (LMDs) permettant d'habiller les sols du jeu.
-  - Shaders procéduraux pour l'environnement et la cohésion visuel de ceux-ci dans leurs scènes (Decals, neige, givre, intersection avec le sol, ...).
-  - Système de vent statique et dynamique dans la végétation du jeu.
-  - Suivi technique appuyé de l'équipe Enviro
-  - Maintien des shaders utilisés par les équipes artiqtiques
-  <br>
-
-Projet Non Annoncé 12 _(Février 2024 - Avril 2024)_ <br>
-  - Recherche et développements d'outils de génération procédurale pour jeu à monde ouvert (biomes, terrain, réseaux routiers ...)
-  - Shaders procéduraux pour l'habillage des sols de l'équipe Enviro
-  - Shaders procéduraux pour les prototypes de l'équipe Level Design
-  - Amélioration du rendu des shaders préexistants de l'équipe Chara
-  <br>
-
-  Projet Non Annoncé 14 _(Avril 2024 - Aujourd'hui)_  <br>
-  - Recherche et développements d'outils de génération procédurale de villes, incluant batiments, rues, canaux, toits, etc.
-  - Développement des shaders Enviro
-  - Continuation de l'amélioration des shaders Chara
+  - [Banishers: Ghosts of New Eden](https://store.steampowered.com/app/1493640/Banishers_Ghosts_of_New_Eden/) _(Octobre 2020 - Février 2024)_<br>
+    Jeu Action-RPG narratif pour PC, XBox Series et PS5.
+    - Génération procédurale d'éléments graphiques pour puzzles et environnements (toiles d'araignées, racines maléfiques ...).
+    - Développement d'outils de générations de chaîne complète de LODs, responsable de leur qualité et performances pour l'intégralité des assets 3D du jeu, dont les imposteurs de végétation.
+    - Développement d'outil de correction automatique de la modélisation et des paramétrages des assets 3D.
+    - Maintien et amélioration du rendu et des performances du système de Landscape Mesh Decals (LMDs) permettant d'habiller les sols du jeu.
+    - Shaders procéduraux pour l'environnement et la cohésion visuel de ceux-ci dans leurs scènes (Decals, neige, givre, intersection avec le sol, ...).
+    - Système de vent statique et dynamique dans la végétation du jeu.
+    - Suivi technique appuyé de l'équipe Enviro
+    - Maintien des shaders utilisés par les équipes artiqtiques
+  - Projet Non Annoncé 12 _(Février 2024 - Avril 2024)_ <br>
+    - Recherche et développements d'outils de génération procédurale pour jeu à monde ouvert (biomes, terrain, réseaux routiers ...)
+    - Shaders procéduraux pour l'habillage des sols de l'équipe Enviro
+    - Shaders procéduraux pour les prototypes de l'équipe Level Design
+    - Amélioration du rendu des shaders préexistants de l'équipe Chara
+  - Projet Non Annoncé 14 _(Avril 2024 - Aujourd'hui)_  <br>
+    - Recherche et développements d'outils de génération procédurale de villes, incluant batiments, rues, canaux, toits, etc.
+    - Développement des shaders Enviro
+    - Continuation de l'amélioration des shaders Chara
 <br><br>
 
 **Ingénieur Développeur** @ [Ooblada](https://www.ooblada.net/) _(Septembre 2018 - Octobre 2020)_ <br>
-Développeur indépendant de jeux vidéo web et mobile. [Pulp & Logic](https://www.facebook.com/food.space.logic/)
-  - Développement de jeux de puzzle pour plateformes Android et iOS.
-  - Game Design et Programmation sur Unity.
-  - Développement d’outils techniques pour les équipes de tests, de marketing, créatives et d’analyse de données.
-  - Responsable de l’administration et de l’intégration du dépôt GIT.
-  - Responsable de l’administration des builds du projet.
-  - Participation aux réflexions sur le marketing, la monétisation et l’analyse des données utilisateurs du jeu.
-  - Jeu de puzzle pour plateformes Android et iOS (Unity)
-  - Développement d’outils techniques pour les équipes de tests, de
-marketing, créatives et d’analyse de données
-  - Responsable de l’implémentation des graphismes et animations
-  - Responsable de l’administration et de l’intégration du dépôt GIT
-  - Responsable de l’administration des builds du projet
-  - Participation aux réflexions sur le marketing, la monétisation et
-l’analyse des données utilisateurs du jeu
-  - Autres responsabilités :
-    - Formation aux shaders pour les programmeurs
-    - Formation à Unity pour les graphistes
-    - Participation au recrutement des développeurs
+Développeur indépendant de jeux vidéo web et mobile. 
+<br>
+
+  - [Pulp & Logic](https://www.facebook.com/food.space.logic/) <br>
+  Jeu de puzzles procéduraux (Picross/Nonogramme) pour plateformes Android et iOS.
+    - Game Design et Programmation sur Unity.
+    - Développement d’outils techniques pour les équipes de tests, de marketing, créatives et d’analyse de données.
+    - Responsable de l’administration et de l’intégration du dépôt GIT.
+    - Responsable de l’administration des builds du projet.
+    - Participation aux réflexions sur le marketing, la monétisation et l’analyse des données utilisateurs du jeu.
+    - Jeu de puzzle pour plateformes Android et iOS (Unity)
+    - Développement d’outils techniques pour les équipes de tests, de marketing, créatives et d’analyse de données
+    - Responsable de l’implémentation des graphismes et animations
+    - Responsable de l’administration et de l’intégration du dépôt GIT
+    - Responsable de l’administration des builds du projet
+    - Participation aux réflexions sur le marketing, la monétisation et l’analyse des données utilisateurs du jeu
+    - Autres responsabilités :
+      - Formation aux shaders pour les programmeurs
+      - Formation à Unity pour les graphistes
+      - Participation au recrutement des développeurs
 
   - **_Technologies utilisées :_** Unity, C#, Python, SQL, HLSL, Firebase, Tableau, BigQuery, Jira, Ironsource, Git, génération procédurale, visual studio.
 <br><br>
